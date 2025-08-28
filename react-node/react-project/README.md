@@ -111,8 +111,9 @@ HTML5/CSS3
    o
    ```
 4.2. **Abrir en el navegador usando el link**
+   ```
    http://localhost:5173
-
+   ```
 
 📜 Licencia
 Distribuido bajo licencia MIT. Si reutilizas este código, dale una estrella ⭐ en GitHub.
