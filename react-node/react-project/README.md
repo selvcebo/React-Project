@@ -17,13 +17,14 @@ Implements [protected routes, API consumption, state management, etc.].
 ---
 
 ## 📂 Project Structure
+```
 src/ 
 ├── components/ # Reusable components 
 ├── pages/ # Main views/pages 
 ├── assets/ # Images, icons, styles 
 ├── App.js # Root component 
 └── index.js # Entry point
-
+```
 ---
 
 ## 🛠️ Technologies Used
@@ -77,13 +78,14 @@ Integración con API o backend.
 
 📂 Estructura del Proyecto
 Código
+```
 src/
 ├── components/     # Componentes reutilizables
 ├── pages/          # Vistas/páginas principales
 ├── assets/         # Imágenes, íconos y estilos
 ├── App.js          # Componente raíz
 └── index.js        # Punto de entrada
-
+```
 🛠️ Tecnologías Utilizadas
 React (create-react-app)
 
