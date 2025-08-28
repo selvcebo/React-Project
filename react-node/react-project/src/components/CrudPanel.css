@@ -1,0 +1,87 @@
+/* Contenedor principal */
+.crud-panel-div {
+  width: 100%;
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #1e1e1e;
+  color: #f0f0f0;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.5);
+  font-family: 'Segoe UI', sans-serif;
+  justify-content:space-around;
+  display:-ms-grid;
+}
+
+/* Título */
+.crud-panel-h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color:  #00bcd4;
+}
+
+/* Inputs y select */
+.crud-panel-input, .crud-panel-select {
+  display: block;
+  width: 95%;
+  margin-bottom: 12px;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  background: #2e2e2e;
+  color: #fff;
+  font-size: 14px;
+ 
+}
+
+/* Botón principal */
+.crud-panel-button {
+  margin-right: 8px;
+  padding: 8px 16px;
+  background:  #00bcd4;
+  color: #000;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.crud-panel-button:hover {
+  background:  #00bbd48e;
+}
+
+/* Lista de usuarios */
+.crud-panel-ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+.crud-panel-li {
+  background: #2a2a2a;
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.crud-panel-li button {
+  background: #ff4d4d;
+  color: white;
+  border-radius: 5px;
+  justify-content: flex-end;
+}
+
+.crud-panel-li button:first-of-type {
+  background: #4da6ff;
+  border-radius: 5px;
+  margin: 0;
+  justify-content: flex-end;
+}
+
+.crud-panel-li button:hover {
+  opacity: 0.8;
+}
