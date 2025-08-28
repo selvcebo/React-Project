@@ -28,10 +28,12 @@ src/
 ---
 
 ## 🛠️ Technologies Used
-- **React** (create-react-app)
+- **React** (Create React App)
 - **JavaScript ES6+**
-- **HTML5/CSS3**
-- [Other libraries: axios, react-router-dom, etc.]
+- **HTML5 / CSS3**
+- **Other libraries:** axios, react-router-dom, etc.
+- **MongoDB Community Server** v8.0.12
+- **Node.js** v22.18.0
 
 ---
 
@@ -45,8 +47,9 @@ src/
 3. **Run locally*
    ```bash
    npm run dev
-   node server.js (in another bash, using backend folder)
    mongod (in another bash)
+   node server.js (in another bash, using backend folder)
+   
    
 4.1. **Open in browser using bash**
    ```bash (In the npm run dev bash)
@@ -96,13 +99,12 @@ src/
 ---
 
 ## 🛠️ Tecnologías Utilizadas
-React (create-react-app)
-
-JavaScript ES6+
-
-HTML5/CSS3
-
-[Otras librerías: axios, react-router-dom, etc.]
+- **React** (Create React App)
+- **JavaScript ES6+**
+- **HTML5 / CSS3**
+- **Otras librerías:** axios, react-router-dom, etc.
+- **MongoDB Community Server** v8.0.12
+- **Node.js** v22.18.0
 
 ---
 
@@ -116,8 +118,9 @@ HTML5/CSS3
 3. **Correr de manera local*
    ```bash
    npm run dev
-   node server.js (En otro bash, estando en la carpeta "backend")
    mongod (En otro bash)
+   node server.js (En otro bash, estando en la carpeta "backend")
+   
    
 4.1. **Abrir en el navegador usando bash**
    ```bash (En el mismo bash del npm run dev)
