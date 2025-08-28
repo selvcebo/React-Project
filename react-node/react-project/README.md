@@ -1,4 +1,4 @@
-ENGLISH
+#ENGLISH
 
 # 🖥️ React Project – [SELV-React]
 
@@ -55,18 +55,26 @@ src/
 4.2. **Open in browser with the link**
    http://localhost:5173
 
-📜 License
+---
+
+##📜 License
 Distributed under the MIT License. If you reuse this code, please star ⭐ the repo.
 
-✨ Author
+---
+
+##✨ Author
 Sergio Esteban León Valencia | Fullstack Developer | AI & Machine Learning Enthusiast 
 
-ESPAÑOL
+---
 
-🖥️ Proyecto React – [SELV-React]
+#ESPAÑOL
+
+#🖥️ Proyecto React – [SELV-React]
 Aplicación web desarrollada en React como parte de un [proyecto estudiantil]. Incluye [rutas protegidas, consumo de API, manejo de estado, etc.].
 
-🚀 Características
+---
+
+##🚀 Características
 Frontend en React con componentes reutilizables.
 
 Estilos con CSS.
@@ -75,8 +83,9 @@ Manejo de estado con useState y useEffect.
 
 Integración con API o backend.
 
+---
 
-📂 Estructura del Proyecto
+##📂 Estructura del Proyecto
 Código
 ```
 src/
@@ -86,7 +95,10 @@ src/
 ├── App.js          # Componente raíz
 └── index.js        # Punto de entrada
 ```
-🛠️ Tecnologías Utilizadas
+
+---
+
+##🛠️ Tecnologías Utilizadas
 React (create-react-app)
 
 JavaScript ES6+
@@ -95,7 +107,9 @@ HTML5/CSS3
 
 [Otras librerías: axios, react-router-dom, etc.]
 
-## 📦 Installation & Usage
+---
+
+## 📦 Instalación y Uso
 1. **Clonar el repositorio**
    ```bash
    git clone https://github.com/selvcebo/React-Project.git
@@ -117,8 +131,12 @@ HTML5/CSS3
    http://localhost:5173
    ```
 
-📜 Licencia
+---
+
+##📜 Licencia
 Distribuido bajo licencia MIT. Si reutilizas este código, dale una estrella ⭐ en GitHub.
 
-✨ Autor
+---
+
+##✨ Autor
 Sergio Esteban León Valencia | Desarrollador Fullstack | Entusiasta de IA y Machine Learning 
