@@ -1,4 +1,4 @@
-#ENGLISH
+# ENGLISH
 
 # 🖥️ React Project – [SELV-React]
 
@@ -68,9 +68,9 @@ Sergio Esteban León Valencia | Fullstack Developer | AI & Machine Learning Enth
 
 ---
 
-#ESPAÑOL
+# ESPAÑOL
 
-#🖥️ Proyecto React – [SELV-React]
+# 🖥️ Proyecto React – [SELV-React]
 Aplicación web desarrollada en React como parte de un [proyecto estudiantil]. Incluye [rutas protegidas, consumo de API, manejo de estado, etc.].
 
 ---
