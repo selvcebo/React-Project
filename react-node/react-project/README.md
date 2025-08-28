@@ -53,16 +53,17 @@ src/
    o
    ```
 4.2. **Open in browser with the link**
+   ```
    http://localhost:5173
-
+   ```
 ---
 
-##📜 License
+## 📜 License
 Distributed under the MIT License. If you reuse this code, please star ⭐ the repo.
 
 ---
 
-##✨ Author
+## ✨ Author
 Sergio Esteban León Valencia | Fullstack Developer | AI & Machine Learning Enthusiast 
 
 ---
@@ -74,19 +75,15 @@ Aplicación web desarrollada en React como parte de un [proyecto estudiantil]. I
 
 ---
 
-##🚀 Características
-Frontend en React con componentes reutilizables.
-
-Estilos con CSS.
-
-Manejo de estado con useState y useEffect.
-
-Integración con API o backend.
+## 🚀 Características
+- **Frontend en React** con componentes reutilizables.
+- **Estilos** con CSS.
+- Manejo de estado con useState y useEffect.
+- Integración con API o backend.
 
 ---
 
-##📂 Estructura del Proyecto
-Código
+## 📂 Estructura del Proyecto
 ```
 src/
 ├── components/     # Componentes reutilizables
@@ -98,7 +95,7 @@ src/
 
 ---
 
-##🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 React (create-react-app)
 
 JavaScript ES6+
@@ -133,10 +130,10 @@ HTML5/CSS3
 
 ---
 
-##📜 Licencia
+## 📜 Licencia
 Distribuido bajo licencia MIT. Si reutilizas este código, dale una estrella ⭐ en GitHub.
 
 ---
 
-##✨ Autor
+## ✨ Autor
 Sergio Esteban León Valencia | Desarrollador Fullstack | Entusiasta de IA y Machine Learning 
